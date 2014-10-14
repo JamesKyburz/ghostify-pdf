@@ -1,0 +1,27 @@
+{
+  "name": "ghostify-pdf",
+  "description": "Use ghostscript's pdf2ps and pstopdf to fix pdf's",
+  "keywords": "pdf ghostscript",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/ghostify-pdf"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "tape test/test.js | faucet"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "win-spawn": "^2.0.0"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^3.0.0"
+  }
+}
