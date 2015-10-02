@@ -17,11 +17,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "duplexer": "^0.1.1",
-    "win-spawn": "^2.0.0"
+    "duplexer": "0.1.1",
+    "win-spawn": "2.0.0"
   },
   "devDependencies": {
     "faucet": "0.0.1",
-    "tape": "^3.0.0"
+    "tape": "3.5.0"
   }
 }
