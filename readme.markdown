@@ -2,6 +2,8 @@
 
 A duplex stream using `pdf2ps - - | ps2pdf - -`
 
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 Converting a pdf to ghostscript and back again can fix
 pdf issues. Eg. Adobe Reader doesn't print...
 

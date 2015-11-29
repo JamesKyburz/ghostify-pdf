@@ -13,7 +13,8 @@
   "main": "index.js",
   "version": "1.0.4",
   "scripts": {
-    "test": "tape test/test.js | faucet"
+    "test": "tape test/test.js | faucet",
+    "prepublish": "standard"
   },
   "license": "MIT",
   "dependencies": {
@@ -22,6 +23,7 @@
   },
   "devDependencies": {
     "faucet": "0.0.1",
+    "standard": "5.4.1",
     "tape": "4.2.2"
   }
 }
