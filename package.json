@@ -17,8 +17,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "duplexer": "0.1.1",
-    "win-spawn": "2.0.0"
+    "cross-spawn": "2.0.1",
+    "duplexer": "0.1.1"
   },
   "devDependencies": {
     "faucet": "0.0.1",

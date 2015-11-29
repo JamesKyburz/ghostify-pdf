@@ -1,4 +1,4 @@
-var spawn = require('win-spawn');
+var spawn = require('cross-spawn');
 var duplexer = require('duplexer');
 
 module.exports = ghostify;
