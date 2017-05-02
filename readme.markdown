@@ -1,5 +1,7 @@
 # ghostify-pdf
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/ghostify-pdf.svg)](https://greenkeeper.io/)
+
 A duplex stream using `pdf2ps - - | ps2pdf - -`
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
